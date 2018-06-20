@@ -1,3 +1,4 @@
 this is a git test.
 I will change this text.
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
